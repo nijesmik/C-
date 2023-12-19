@@ -1,3 +1,6 @@
+> **출처** <br>
+> 📚 [명품 C++ Programming](https://product.kyobobook.co.kr/detail/S000001076322)
+
 # 멤버 변수 초기화
 
 ```c++

@@ -1,3 +1,6 @@
+> **출처** <br>
+> 📚 [명품 C++ Programming](https://product.kyobobook.co.kr/detail/S000001076322)
+
 # namespace
 
 2003년 C+ 표준에서는 여러 프로젝트나 여러 사람들이 작성한 프로그램에서 변수, 함수, 클래스 등의 이름(identifer)이 충돌하는 것을 막기 위해, 개발자가 자신만의 고유한 identifier 공간을 생성할 수 있도록 `namespace` 키워드를 도입하였다. 서로 다른 `namespace` 안에 선언된 identifier들은 별개의 identifier으로 취급되기 때문에, 각 개발자가 자신만의 `namespace`을 사용하면 identifier의 충돌을 막을 수 있다.
