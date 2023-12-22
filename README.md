@@ -18,6 +18,6 @@
 - [Class의 선언과 구현](./class/2023-11-27-class.md/#class의-선언과-구현)
 - [접근 지정자](./class/2023-11-27-class.md/#접근-지정자-access-specifier)
 - [생성자](./class/2023-11-28-constructor.md/#생성자-constructor)
-    - [위임 생성자](./class/2023-11-28-constructor.md/#위임-생성자-delegating-constructor)
+    - [위임 생성자](./class/constructors/2023-12-21-delegating-constructors.md)
 - [객체 생성](./class/2023-11-28-constructor.md/#객체-생성)
 - [멤버 변수 초기화](./class/2023-11-28-init-member.md/#멤버-변수-초기화)
